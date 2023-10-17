@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Desenvolvedor full stack
-- 🌱 Estudando Javascript, React, PHP, Laravel
+- 🌱 Javascript, React, PHP, Mysql, Laravel
 - 📫 Email: marcoswendeloficial@gmail.com
 
 <div style="display: inline_block"><br>
